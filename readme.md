@@ -1,4 +1,4 @@
-## Im virgo preez
+## Welcome to Git 
 
-- Yeah its Kevin changing shit
+-These changes are by Jack
 im adding this from second branch
