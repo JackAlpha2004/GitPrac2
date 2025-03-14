@@ -1,4 +1,4 @@
-## Welcome to Git 
+## Welcome its Ken
 
--These changes are by Jack
+-These changes are by Ken
 im adding this from second branch
